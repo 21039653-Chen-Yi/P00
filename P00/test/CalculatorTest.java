@@ -37,7 +37,7 @@ public class CalculatorTest {
 	}
 	public void testSubtract() {
 		int a = 1234;
-		int b = 8765;
+		 int b = 8765;
 		
 		Calculator cal = new Calculator();
 		int actual = cal.substract(a, b);
